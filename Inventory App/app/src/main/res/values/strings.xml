@@ -1,0 +1,96 @@
+<resources>
+
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Inventory App</string>
+
+    <!-- Title for the activity to add a new product [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_product">Add a product</string>
+
+    <!-- Title for the activity to edit a edit product [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_product">Edit a product</string>
+
+    <!-- Label for overflow menu option that inserts fake product data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for editor menu option to save product and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current product [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overflow menu option that deletes all product data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+    <string name="hint_product_price">Price</string>
+    <string name="hint_product_name">Product name</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="hint_supplier_name">Supplier name</string>
+    <string name="hint_supplier_number">Phone number</string>
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Toast message in editor when new product has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_product_successful">Product saved</string>
+
+    <!-- Toast message in editor when new product has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_product_failed">Error with saving product</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current product [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current product [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current product [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Toast message in editor when current product was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <!-- Toast message in editor when current product has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current product [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <!-- Label for the product's price if the product is 0 [CHAR LIMIT=20] -->
+    <string name="unknown_price">Unknown price</string>
+    <!-- another Labels [CHAR LIMIT=NONE] -->
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="category_Image">Product Picture</string>
+    <string name="add_photo">Add photo</string>
+    <string name="change_photo">Change photo</string>
+    <string name="intentType">image/*</string>
+    <string name="selectPicture">Select Picture</string>
+    <string name="productNameRequired">Product name required</string>
+    <string name="productPictureRequired">Product picture required</string>
+    <string name="productPriceRequired">Product price required</string>
+    <string name="quantityRequired">Product quantity required</string>
+    <string name="supplierNameRequired">Supplier name required</string>
+    <string name="supplierPhoneRequired">Supplier phone required</string>
+    <string name="noPermitedQuantity">Product\'s quantity not permited</string>
+    <string name="pictureUri">android.resource://com.tuv01.inventoryapp/drawable/bmw_icon </string>
+    <string name="bmw">bmw s1</string>
+    <string name="money">20000</string>
+    <string name="companyProduct">CAR GROUP INTERNATIONAL</string>
+    <string name="companyProductNumber">1501231345</string>
+    <string name="image_product_content">image product</string>
+    <string name="listpicture">Picture in list_item.xml</string>
+    <string name="sale">Sale</string>
+    <string name="outStock">Item out of stock</string>
+    <string name="imageToChange">Image to change</string>
+    <string name="minus">-</string>
+    <string name="order_more">Order more</string>
+    <string name="plus">+</string>
+
+</resources>
