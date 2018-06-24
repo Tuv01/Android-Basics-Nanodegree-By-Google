@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediaPlayerT</string>
+    <string name="activity_main">PlayList</string>
+    <string name="activity_now_playing">Now Playing</string>
+    <string name="activity_splash_screen">SplashScreen</string>
+    <string name="album">Album</string>
+    <string name="bury">Bury Me Alive</string>
+    <string name="playlist">Playlist</string>
+    <string name="playing">Now Playing</string>
+</resources>

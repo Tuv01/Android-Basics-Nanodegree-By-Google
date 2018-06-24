@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorBackground"
+    android:minHeight="@dimen/list_item_height"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:background="@drawable/iplay4"
+        />
+    <ImageView
+        android:id="@+id/song_album_image_view"
+        android:background="@drawable/throwthefight"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height" />
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/song_text_view"
+            style="@style/StyleSongs"
+            tools:text="Bury Me Alive" />
+
+        <TextView
+            android:id="@+id/album_text_view"
+            style="@style/StyleAlbums"
+            tools:text="Transmissions" />
+    </LinearLayout>
+
+</LinearLayout>
