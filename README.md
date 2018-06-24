@@ -43,5 +43,5 @@ Discover the power of Web APIs and how to use them in your apps, and learn the b
 #### Data Storage
 Learn about the importance of data persistence when building an Android app. You'll also learn how to work with SQL databases and Content Providers, which help keep your data bug-free and allow you to share your data storage with other developers.
 
-###### Project: (v3) Inventory App, Stage 1
-###### Project: (v3) Inventory App, Stage 2
+###### Project: Inventory App, Stage 1
+###### Project: Inventory App, Stage 2
