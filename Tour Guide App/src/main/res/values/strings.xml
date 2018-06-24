@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">AlmeriaTourGuide</string>
+    <!-- Navigation Drawer menu labels -->
+    <string name="historyculture">History &amp; Culture</string>
+    <string name="monument">Monuments</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="hotel">Hotels</string>
+    <string name="beach">Beaches</string>
+    <string name="title">Almería</string>
+    <string name="enjoy">Enjoy your stay</string>
+    <!-- List_item description -->
+    <string name="price">Price for monument,hotels,restaurant</string>
+    <string name="location">locations</string>
+    <string name="photo">photo</string>
+    <!-- Monuments-->
+    <string name="alcalzaba">La Alcalzaba</string>
+    <string name="callealmanzor">Calle Almanzor</string>
+    <string name="alcalzabagardens">Alcalzaba\'s gardens</string>
+    <string name="alcalzabawalls">La Alcalzaba walls</string>
+    <string name="alcalzabatower">La Alcalzaba tower</string>
+    <string name="alcalzabagatehouse">La Alcalzaba gatehouse</string>
+    <string name="mauthausen">Mauthausen\'s monument</string>
+    <string name="almadrabillas">Almadrabillas\'s park</string>
+    <string name="caridad">Caridad</string>
+    <string name="ramblabelen">Rambla de Belén</string>
+    <string name="diezmocastle">Diezmo\'s Castle</string>
+    <string name="diezmostreet">diezmo street</string>
+    <!-- Restaurants-->
+    <string name="salmantice">Salmantice</string>
+    <string name="calle_costa_balear">Calle Costa Balear, 16</string>
+    <string name="catamaran">Catamarán</string>
+    <string name="playaalmadravillas">Playa de las Almadravillas</string>
+    <string name="tangobar">Tango Bar &amp; Restaurant</string>
+    <string name="callefelipe">Calle Felipe II, 64</string>
+    <string name="tagliatella">La Tagliatella</string>
+    <string name="federicogarcia">Av. Federico García Lorca, 2</string>
+    <string name="aljaima">Aljaima Restaurant</string>
+    <string name="jovellanos">Calle Jovellanos, 12</string>
+    <!-- Monuments-->
+    <string name="playazapillo">Playa del Zapillo</string>
+    <string name="almeria">Almería</string>
+    <string name="playaaguadulce">Playa de Aguadulce</string>
+    <string name="aguadulce">Aguadulce</string>
+    <string name="playaroquetas">Playa de Roquetas</string>
+    <string name="roquetas">Roquetas</string>
+    <string name="playacabo">Playa de Cabo de Gata</string>
+    <string name="cabodegata">Cabo de Gata</string>
+    <string name="playasanjose">Playa de San José</string>
+    <string name="sanjose">San José</string>
+
+    <!-- Hotels -->
+    <string name="nuevotorreluz">Nuevo Torreluz</string>
+    <string name="plazaflores10">Plaza Flores, 10</string>
+    <string name="tryp">Tryp Indalo</string>
+    <string name="avmediterraneo">Av. del Mediterráneo, 310</string>
+    <string name="catedral">Catedral Almería</string>
+    <string name="plazacatedral">Plaza de la Catedral, 8</string>
+    <string name="achotel">AC Hotel by Marriot</string>
+    <string name="plazaflores5">Plaza Flores,5</string>
+    <string name="nhhotel">Hotel NH</string>
+    <string name="callejardin">Calle Jardín de Medina</string>
+    <!-- Preis -->
+    <string name="free">Free</string>
+    <string name="fifteen">15-40€</string>
+    <string name="ten">10-60€</string>
+    <string name="five">5-30€</string>
+    <string name="eight">8€</string>
+    <string name="thirtyfour">34</string>
+    <string name="fortyseven">47</string>
+    <string name="fiftyfive">55</string>
+    <string name="sixty">60</string>
+    <!-- other -->
+    <string name="animal">animal</string>
+    <string name="noanimal">no animal</string>
+    <string name="nudism">nudism</string>
+    <string name="street">Calle Almanzor</string>
+    <string name="euros">55€</string>
+    <string name="place">La Alcazaba</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="history_culture_fragment">History &amp; Culture</string>
+    <string name="text_almeria_history">Almería, thanks to its strategic situation on the
+        Mediterranean,has been home to different civilisations throughout its history. Significant
+        traces of their presence can be seen in the archaeological remains scattered all over the
+        province.
+        The city was founded by Calipha Abd-ar-Rahman III of Cordoba in 955 AD. It was to be a
+        principal harbour in his extensive domain to strengthen his Mediterranean defences.
+        Its Moorish castle, the Alcazaba de Almería, is the second largest among the Muslim
+        fortresses of Andalusia, after the Alhambra.
+        The ancient walls of Jayrán
+        In this period, the port city of Almería reached its historical peak. After the
+        fragmentation of the Caliphate of Córdoba, Almería continued to be ruled by powerful local
+        Muslim Taifa emirs like Jairan, the first independent Emir of Almería and Cartagena, and
+        Almotacin, the poet emir. Both Jairan and Almotacin were fearless warriors, but also
+        sophisticated patrons of the arts. A silk industry, based upon plantings of mulberry
+        trees in the hot, dry landscape of the province, supported Almería in the 11th century
+        and made its strategic harbour an even more valuable asset.Contested by the emirs of Granada
+        and Valencia, Almería experienced many sieges, including one especially fierce siege when
+        Christians, called to the Second Crusade by Pope Eugene III, were also encouraged to attack
+        the Muslim ‘infidels’ on a more familiar coast. On that occasion Alfonso VII, at the head of
+        mixed forces of Catalans, Genoese, Pisans and Franks, led a crusade against the rich city,
+        and Almería was occupied in October 1147.
+        Within a decade, however, Almería had passed to the control of the puritanical Muslim
+        Almoravid emirs, and not until the late 15th century did it fall permanently into Christian
+        hands. The city surrendered to the Catholic Monarchs, Ferdinan and Isabella, on December
+        26, 1489.
+        The 16th century was for Almería a century of natural and human catastrophes; for there were
+        at least four earthquakes, of which the one in 1522 was especially violent, devastating the
+        city. The people who had remained Muslim were expelled from Almería after the War of Las
+        Alpujarras in 1568 and scattered across Spain. Landings and attacks by Berber pirates were
+        also frequent in the 16th century, and continued until the early 18th century. At that time,
+        huge iron mines were discovered and French and British companies set up business in the area,
+        bringing renewed prosperity and returning Almería to a position of relative importance within
+        Spain.
+        During the Spanish Civil War the city was shelled by the German navy, and the front page
+        headlines of the Diario de Almería, dated June 3, 1937, referred to the press in London and
+        Paris carrying the news of the “criminal bombardment of Almería by German planes”.
+        Almería and Málaga were the last Andalusian cities to surrender to Francisco Franco’s
+        nationalist forces.
+        In the second half of the 20th century, Almería witnessed spectacular economic growth due
+        to tourism and intensive agriculture, with crops grown year-round in massive invernaderos
+        – plastic-covered “greenhouses” – for intensive vegetable production.
+        After Franco’s death and popular approval of the new Spanish Constitution, the people of
+        southern Spain were called on to approve an autonomous status for the region in a referendum.
+        Although there were 118,186 votes for and 11,092 votes against it in the province of Almería,
+        an absolute majority was needed, and the results in Almería were just 42%. The Government
+        impugned that result, and Almería is now part of the newly autonomous region of Andalusia
+        as we know it today.</string>
+        <string name="hello_blank_fragment">"!"§!</string>
+</resources>
