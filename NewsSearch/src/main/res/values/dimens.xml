@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Lengths,paddings and margins with dp units -->
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="fifteendp">15dp</dimen>
+    <dimen name="twelvedp">12dp</dimen>
+    <dimen name="seventeendp">17dp</dimen>
+    <!-- Text with sp units-->
+    <dimen name="fivesp">5sp</dimen>
+    <dimen name="fifteensp">15sp</dimen>
+    <dimen name="twelvesp">12sp</dimen>
+    <dimen name="seventeensp">17sp</dimen>
+</resources>
